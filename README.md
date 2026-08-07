@@ -4,7 +4,7 @@ Pythonで学ぶデータ分析実践 記事用コード
 chap1
 
 chap2
-準備中
+
 
 chap3
 準備中
