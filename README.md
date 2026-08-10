@@ -12,7 +12,7 @@ chap3
 chap4
 【第4回】Pythonで学ぶデータ分析実践 〜相関分析〜
 
-chap5　準備中
+chap5
 【第5回】Pythonで学ぶデータ分析実践 〜統計的推定〜
 
 chap6　準備中
