@@ -6,10 +6,10 @@ chap1
 chap2
 【第2回】Pythonで学ぶデータ分析実践 〜データの前処理〜
 
-chap3　
+chap3
 【第3回】Pythonで学ぶデータ分析実践 〜データの把握〜
 
-chap4　準備中
+chap4
 【第4回】Pythonで学ぶデータ分析実践 〜相関分析〜
 
 chap5　準備中
