@@ -15,16 +15,16 @@ chap4
 chap5
 【第5回】Pythonで学ぶデータ分析実践 〜統計的推定〜
 
-chap6　準備中
+chap6
 【第6回】Pythonで学ぶデータ分析実践 〜統計的検定〜
 
-chap7　準備中
+chap7
 【第7回】Pythonで学ぶデータ分析実践 〜分散分析〜
 
-chap8　準備中
+chap8
 【第8回】Pythonで学ぶデータ分析実践 〜回帰分析〜
 
-chap9　準備中
+chap9
 【第9回】Pythonで学ぶデータ分析実践 〜時系列データ分析〜
 
 chap10　準備中
